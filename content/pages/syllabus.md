@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on objectives, meeting times, prerequisites, readings and screenings, class participation
+  and presentations, written assignments, attendance, plagiarism, grading, and the
+  schedule of lecture topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -49,7 +53,7 @@ Class attendance, including active participation in discussions and workshops, i
 Plagiarism
 ----------
 
-Using someone else's language or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community, you are expected to abide by the norms of academic honesty. While collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. The booklet ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) explains these issues in detail, and you are responsible for understanding its contents. We will discuss citing sources in class and discuss ways to acknowledge them properly. Plagiarism can result in withdrawal from the course with a grade of F, suspension, or expulsion from the Institute.
+Using someone else's language or ideas without proper attribution is academically dishonest. As members of this class and the larger scholarly community, you are expected to abide by the norms of academic honesty. While collaboration is encouraged in and out of class, failing to acknowledge sources or willfully misrepresenting the work of others as your own will not be tolerated. Everything you submit must be your own work, written specifically for this class. The booklet [Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf) explains these issues in detail, and you are responsible for understanding its contents. We will discuss citing sources in class and discuss ways to acknowledge them properly. Plagiarism can result in withdrawal from the course with a grade of F, suspension, or expulsion from the Institute.
 
 Grading
 -------
